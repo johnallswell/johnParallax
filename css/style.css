@@ -197,9 +197,7 @@ padding-top: 3em;
 }
 
 }
-section.module.parallax-1 {
-	background-image: url("../img/eyes.jpg");
-}
+
 section.module.parallax-2 {
 	background-image: url("../img/eyes.jpg");
 }
@@ -265,6 +263,7 @@ section.module.parallax-5.hearts {
   	font-size: 1.8em;
   	text-align: center;
   }
+  
 }
 @media all and (min-width: 960px) {
   h6 {
@@ -288,5 +287,5 @@ section.module.parallax-5.hearts {
   .persist h6 {
   	font-size: 7em;
   }
-  
+
 }
